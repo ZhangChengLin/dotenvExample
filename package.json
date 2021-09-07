@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "dotenv": "10.0.0",
+    "gulp": "4.0.2"
+  }
+}
